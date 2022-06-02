@@ -18,6 +18,9 @@
 
 <p>Estudo sobre funções de array com Javascript</p>
 
+push - Insere mais um dado no array 
+pop - Remove um dado do array
+
 ## Exemplo de map()
 index.html
 ```js
