@@ -1,18 +1,5 @@
 <h1 align="center"> Javascript - Funções de array map(), filter(), reduce(), every(), some(), find(), includes()</h1>
-
-#Índice
-- [🛠 Sobre o projeto](#-sobre-o-projeto)
-  - [Exemplo de map()](#exemplo-de-map)
-  - [Exemplo de filter()](#exemplo-de-filter)
-  - [Exemplo de Reduce()](#exemplo-de-reduce)
-  - [Exemplo de Every()](#exemplo-de-every)
-  - [Exemplo de some()](#exemplo-de-some)
-  - [Exemplo de find()](#exemplo-de-find)
-  - [Exemplo de includes()](#exemplo-de-includes)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Autor](#-autor)
-  
+ 
 ---
 # 🛠 Sobre o projeto
 
